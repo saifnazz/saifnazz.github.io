@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clickable Image Post</title>
+</head>
+<body>
+    <a href="https://instagram.com/hello.hi.24?igshid=ZGUzMzM3NWJiOQ==">
+        <img src="https://i.ibb.co/n7Krdxc/photo-1595053863958-f966040f6eed.jpg" alt="Click me">
+    </a>
+</body>
+</html>
